@@ -773,12 +773,12 @@ Navbar Area Style
   margin-right: 0;
 }
 .desktop-nav.style-2 .navbar .navbar-nav .nav-item a {
-  color: var(--whiteColor);
-  transition: var(--transition);
+  /*color: var(--whiteColor);
+  transition: var(--transition);*/
 }
 .desktop-nav.style-2 .navbar .navbar-nav .nav-item a.dropdown-toggle::before {
-  color: var(--whiteColor);
-  transition: var(--transition);
+  /*color: var(--whiteColor);
+  transition: var(--transition);*/
 }
 .desktop-nav.style-2 .navbar .navbar-nav .nav-item a:hover, .desktop-nav.style-2 .navbar .navbar-nav .nav-item a:focus, .desktop-nav.style-2 .navbar .navbar-nav .nav-item a.active {
   color: var(--secondaryColor);
@@ -811,8 +811,8 @@ Navbar Area Style
   color: var(--secondaryColor);
 }
 .desktop-nav.style-2 .navbar .others-options ul li .btn {
-  color: var(--whiteColor);
-  border-color: rgba(255, 255, 255, 0.15);
+ /* color: var(--whiteColor);
+  border-color: rgba(255, 255, 255, 0.15);*/
 }
 .desktop-nav.style-2 .navbar .others-options ul li .btn:hover {
   border-color: rgb(217, 212, 212);
@@ -4244,3 +4244,8 @@ Back to Top Style
     background-size: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%;
   }
 }/*# sourceMappingURL=style.css.map */
+
+
+img.black-logo {
+    max-width: 234px;
+}
