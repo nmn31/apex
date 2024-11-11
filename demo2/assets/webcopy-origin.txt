@@ -210,439 +210,439 @@ Uri: https://html.designingmedia.com/whizcyber/about.html
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\about.html
 Content Type: text/html
 
-Uri: https://html.designingmedia.com/whizcyber/assets/css/bootstrap.min.css
+Uri: https://html.designingmedia.com/whizcyber/assets2/css/bootstrap.min.css
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\css\bootstrap.min.css
 Content Type: text/css
 
-Uri: https://html.designingmedia.com/whizcyber/assets/css/custom-style.css
+Uri: https://html.designingmedia.com/whizcyber/assets2/css/custom-style.css
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\css\custom-style.css
 Content Type: text/css
 
-Uri: https://html.designingmedia.com/whizcyber/assets/css/mobile.css
+Uri: https://html.designingmedia.com/whizcyber/assets2/css/mobile.css
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\css\mobile.css
 Content Type: text/css
 
-Uri: https://html.designingmedia.com/whizcyber/assets/css/owl.carousel.min.css
+Uri: https://html.designingmedia.com/whizcyber/assets2/css/owl.carousel.min.css
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\css\owl.carousel.min.css
 Content Type: text/css
 
-Uri: https://html.designingmedia.com/whizcyber/assets/css/owl.theme.default.min.css
+Uri: https://html.designingmedia.com/whizcyber/assets2/css/owl.theme.default.min.css
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\css\owl.theme.default.min.css
 Content Type: text/css
 
-Uri: https://html.designingmedia.com/whizcyber/assets/css/style.css
+Uri: https://html.designingmedia.com/whizcyber/assets2/css/style.css
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\css\style.css
 Content Type: text/css
 
-Uri: https://html.designingmedia.com/whizcyber/assets/css/super-classes.css
+Uri: https://html.designingmedia.com/whizcyber/assets2/css/super-classes.css
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\css\super-classes.css
 Content Type: text/css
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-left-background.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-left-background.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-left-background.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-page-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-page-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-page-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-page-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-page-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-page-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-page-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-page-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-page-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-page-img4.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-page-img4.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-page-img4.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-page-left-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-page-left-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-page-left-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-right-backround.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-right-backround.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-right-backround.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-section-img1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-section-img1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-section-img1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-section-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-section-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-section-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/about-section-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/about-section-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\about-section-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/carousel-after-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/carousel-after-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\carousel-after-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/carousel-before-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/carousel-before-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\carousel-before-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/carousel-img1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/carousel-img1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\carousel-img1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/carousel-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/carousel-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\carousel-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/carousel-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/carousel-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\carousel-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/combine-back-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/combine-back-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\combine-back-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/contact-before-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/contact-before-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\contact-before-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/contact-page-img1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/contact-page-img1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\contact-page-img1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/contact-page-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/contact-page-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\contact-page-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/contact-page-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/contact-page-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\contact-page-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/android-icon-192x192.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/android-icon-192x192.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\android-icon-192x192.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-114x114.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-114x114.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-114x114.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-120x120.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-120x120.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-120x120.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-144x144.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-144x144.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-144x144.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-152x152.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-152x152.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-152x152.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-180x180.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-180x180.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-180x180.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-57x57.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-57x57.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-57x57.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-60x60.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-60x60.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-60x60.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-72x72.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-72x72.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-72x72.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/apple-icon-76x76.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/apple-icon-76x76.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\apple-icon-76x76.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/favicon-16x16.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/favicon-16x16.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\favicon-16x16.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/favicon-32x32.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/favicon-32x32.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\favicon-32x32.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/favicons/manifest.json
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/favicons/manifest.json
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\favicons\manifest.json
 Content Type: application/json
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/footer-logo.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/footer-logo.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\footer-logo.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/header-left-circle-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/header-left-circle-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\header-left-circle-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/header-right-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/header-right-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\header-right-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/help-section-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/help-section-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\help-section-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/help-section-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/help-section-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\help-section-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/icon-folder.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/icon-folder.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\icon-folder.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/partners-icon1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/partners-icon1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\partners-icon1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/partners-icon2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/partners-icon2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\partners-icon2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/partners-icon3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/partners-icon3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\partners-icon3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/partners-icon4.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/partners-icon4.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\partners-icon4.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/partners-icon5.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/partners-icon5.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\partners-icon5.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/partners-icon6.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/partners-icon6.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\partners-icon6.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/post-featured-img1.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/post-featured-img1.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\post-featured-img1.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/post-featured.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/post-featured.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\post-featured.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/post-featured2.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/post-featured2.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\post-featured2.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/post-featured3.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/post-featured3.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\post-featured3.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/post-featured4.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/post-featured4.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\post-featured4.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/pricing-plan-icon1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/pricing-plan-icon1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\pricing-plan-icon1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/pricing-plan-icon2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/pricing-plan-icon2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\pricing-plan-icon2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/pricing-plan-icon3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/pricing-plan-icon3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\pricing-plan-icon3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/review1.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/review1.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\review1.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/review2.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/review2.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\review2.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/section2-after-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/section2-after-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\section2-after-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/section2-before-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/section2-before-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\section2-before-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/section2-left-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/section2-left-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\section2-left-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/section2-list-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/section2-list-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\section2-list-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/services-img1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/services-img1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\services-img1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/services-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/services-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\services-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/services-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/services-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\services-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/services-img4.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/services-img4.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\services-img4.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/services-img5.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/services-img5.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\services-img5.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/services-img6.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/services-img6.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\services-img6.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/side_post_img01.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/side_post_img01.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\side_post_img01.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/side_post_img02.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/side_post_img02.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\side_post_img02.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/side_post_img03.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/side_post_img03.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\side_post_img03.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/standard_post_img01.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/standard_post_img01.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\standard_post_img01.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/standard_post_img02.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/standard_post_img02.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\standard_post_img02.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/standard_post_img03.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/standard_post_img03.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\standard_post_img03.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/standard_post_img04.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/standard_post_img04.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\standard_post_img04.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/standard_post_img05.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/standard_post_img05.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\standard_post_img05.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/standard_post_img06.jpg
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/standard_post_img06.jpg
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\standard_post_img06.jpg
 Content Type: image/jpeg
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-img1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-img1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-img1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-img4.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-img4.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-img4.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-section-page-img1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-section-page-img1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-section-page-img1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-section-page-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-section-page-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-section-page-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-section-page-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-section-page-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-section-page-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-section-page-img4.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-section-page-img4.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-section-page-img4.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-section-page-img5.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-section-page-img5.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-section-page-img5.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/teams-section-page-img6.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/teams-section-page-img6.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\teams-section-page-img6.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/whiz-cyber-banner.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/whiz-cyber-banner.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\whiz-cyber-banner.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/whiz-cyber-logo.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/whiz-cyber-logo.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\whiz-cyber-logo.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/who-we-are-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/who-we-are-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\who-we-are-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/who-we-before.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/who-we-before.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\who-we-before.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/who-we-right.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/who-we-right.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\who-we-right.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/why-choose-left-img.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/why-choose-left-img.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\why-choose-left-img.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/whychoseus-img1.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/whychoseus-img1.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\whychoseus-img1.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/whychoseus-img2.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/whychoseus-img2.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\whychoseus-img2.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/images/whychoseus-img3.png
+Uri: https://html.designingmedia.com/whizcyber/assets2/images/whychoseus-img3.png
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\images\whychoseus-img3.png
 Content Type: image/png
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/animations.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/animations.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\animations.js
 Content Type: text/javascript
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/bootstrap.min.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/bootstrap.min.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\bootstrap.min.js
 Content Type: text/javascript
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/carousel.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/carousel.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\carousel.js
 Content Type: text/javascript
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/custom-script.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/custom-script.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\custom-script.js
 Content Type: text/javascript
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/jquery-3.6.0.min.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/jquery-3.6.0.min.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\jquery-3.6.0.min.js
 Content Type: text/javascript
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/owl.carousel.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/owl.carousel.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\owl.carousel.js
 Content Type: text/javascript
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/popper.min.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/popper.min.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\popper.min.js
 Content Type: text/javascript
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/text-animations.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/text-animations.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\text-animations.js
 Content Type: text/javascript
 
-Uri: https://html.designingmedia.com/whizcyber/assets/js/type.js
+Uri: https://html.designingmedia.com/whizcyber/assets2/js/type.js
 File Name: C:\Users\abc\Downloads\saveweb\html.designingmedia.com\whizcyber\assets\js\type.js
 Content Type: text/javascript
 
