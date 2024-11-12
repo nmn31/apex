@@ -128,10 +128,10 @@
 		if (hours < "10") { hours = "0" + hours; }
 		if (minutes < "10") { minutes = "0" + minutes; }
 		if (seconds < "10") { seconds = "0" + seconds; }
-		$("#days").html(days + "<span>Days</span>");
-		$("#hours").html(hours + "<span>Hours</span>");
-		$("#minutes").html(minutes + "<span>Minutes</span>");
-		$("#seconds").html(seconds + "<span>Seconds</span>");
+		$("#days").php(days + "<span>Days</span>");
+		$("#hours").php(hours + "<span>Hours</span>");
+		$("#minutes").php(minutes + "<span>Minutes</span>");
+		$("#seconds").php(seconds + "<span>Seconds</span>");
 	}
 	setInterval(function() { makeTimer(); }, 300);
 
@@ -235,7 +235,7 @@
 		var odo = $(".odometer");
 		odo.each(function() {
 			var countNumber = $(this).attr("data-count");
-			$(this).html(countNumber);
+			$(this).php(countNumber);
 		});
 	});
 
