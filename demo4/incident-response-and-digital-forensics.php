@@ -1,12 +1,23 @@
 <?php include "header-2.php"; ?>
 
     <!-- Hero Section -->
-    <section class="hero-section">
-        <div class="container">
-            <h1>Incident Response and Digital Forensics</h1>
-            <p>At Apex Cybersecurity, we provide expert incident response and digital forensics services to help your organization manage, investigate, and recover from cyberattacks and security breaches.</p>
-        </div>
-    </section>
+	<div class="page-title-area">
+			<div class="container">
+				<div class="page-title-content">
+					<h2>Incident Response and Digital Forensics</h2>
+					<ul>
+						<li>
+							<a href="index.php">
+								<i class="bx bx-home"></i>
+								Home 
+							</a>
+						</li>
+						<li class="active">Incident Response and Digital Forensics</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
 
     <!-- What is Incident Response and Digital Forensics -->
     <section class="container py-5 content-section">

@@ -45,7 +45,9 @@
                             <i class="flaticon-testing"></i>
                             <h3>Penetration Testing</h3>
                         </div>
-                        <p>Identify vulnerabilities in your systems before attackers do, with expert penetration testing services.</p>
+                        <p>
+Discover system vulnerabilities before attackers strike with expert penetration testing.
+Stay protected by simulating real-world attacks on your network.</p>
                     </div>
                 </div>
             </div>
@@ -55,9 +57,11 @@
                     <div class="overly-two">
                         <div class="title">
                             <i class="flaticon-cybercrime"></i>
-                            <h3>Threat Hunting</h3>
+                            <h3>Threat  Hunting</h3>
                         </div>
-                        <p>Proactively search for hidden threats in your network to enhance your </p> <p>cyber resilience.</p>
+                        <p>Uncover hidden threats within your network to boost cyber resilience.
+Stay one step ahead with proactive threat detection.
+Safeguard your organization .</p>
                     </div>
                 </div>
             </div>

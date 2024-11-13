@@ -99,10 +99,11 @@
 				<div class="mobile-nav">
 					<div class="container">
 						<a href="index.php" class="logo">
-							<img src="images/logo.png" alt="Logo" class="logo-light">
-							<img src="images/black-logo.png" alt="Logo" class="logo-dark">
+							
+							<img src="images/white-logo-removebg-preview.png" alt="Logo" class="logo-dark">
 						</a>
 					</div>
+					
 				</div>
 
 <div class="main-nav">
@@ -119,32 +120,32 @@
                         <ul class="dropdown-menu">
                             <li class="nav-item"><a href="cloud-and-network-security-assessments.php" class="nav-link">Cloud and Network Security Assessments</a></li>
                             <li class="nav-item"><a href="incident-response-and-digital-forensics.php" class="nav-link">Incident Response and Digital Forensics</a></li>
-                            <li class="nav-item"><a href="#managed-detection-and-response/" class="nav-link">Managed Detection and Response</a></li>
-                            <li class="nav-item"><a href="#security-operations-center-as-a-service/" class="nav-link">Security Operations Center</a></li>
-                            <li class="nav-item"><a href="#24-7-cyber-security-monitoring/" class="nav-link">24/7 Cyber Security Monitoring</a></li>
-                            <li class="nav-item"><a href="#vulnerability-management/" class="nav-link">Vulnerability Management</a></li>
-                            <li class="nav-item"><a href="#strategic-planning/" class="nav-link">Strategic Planning</a></li>
+                            <li class="nav-item"><a href="managed-detection-and-response.php" class="nav-link">Managed Detection and Response</a></li>
+                            <li class="nav-item"><a href="security-operations-center-as-a-service.php" class="nav-link">Security Operations Center</a></li>
+                            <li class="nav-item"><a href="24-7-cyber-security-monitoring.php" class="nav-link">24/7 Cyber Security Monitoring</a></li>
+                            <li class="nav-item"><a href="vulnerability-management.php" class="nav-link">Vulnerability Management</a></li>
+                            <li class="nav-item"><a href="strategic-planning.php" class="nav-link">Strategic Planning</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
                         <a href="index.php" class="nav-link">Solutions <i class="bx bx-chevron-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><a href="#cyber-security-fencing/" class="nav-link">Cyber Security Fencing</a></li>
-                            <li class="nav-item"><a href="#microsoft-cloud-security/" class="nav-link">Microsoft Cloud Security</a></li>
-                            <li class="nav-item"><a href="#security-gap-mapping/" class="nav-link">Security GAP Mapping</a></li>
-                            <li class="nav-item"><a href="#threat-intelligence/" class="nav-link">Threat Intelligence</a></li>
-                            <li class="nav-item"><a href="#network-monitoring-coverage/" class="nav-link">Network Monitoring Coverage</a></li>
-                            <li class="nav-item"><a href="#soar/" class="nav-link">SOAR</a></li>
+                            <li class="nav-item"><a href="cyber-security-fencing.php" class="nav-link">Cyber Security Fencing</a></li>
+                            <li class="nav-item"><a href="microsoft-cloud-security.php" class="nav-link">Microsoft Cloud Security</a></li>
+                            <li class="nav-item"><a href="security-gap-mapping.php" class="nav-link">Security GAP Mapping</a></li>
+                            <li class="nav-item"><a href="threat-intelligence.php" class="nav-link">Threat Intelligence</a></li>
+                            <li class="nav-item"><a href="network-monitoring-coverage.php" class="nav-link">Network Monitoring Coverage</a></li>
+                            <li class="nav-item"><a href="soar.php" class="nav-link">SOAR</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
                         <a href="index.php" class="nav-link">Incident <i class="bx bx-chevron-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><a href="#compromise-assessment-black-team/" class="nav-link">Compromise Assessment Black Team</a></li>
-                            <li class="nav-item"><a href="#cyber-breach-investigations/" class="nav-link">Cyber Breach Investigations</a></li>
-                            <li class="nav-item"><a href="#breach-response/" class="nav-link">Breach Response</a></li>
-                            <li class="nav-item"><a href="#response-readiness-assessment/" class="nav-link">Response Readiness Assessment</a></li>
-                            <li class="nav-item"><a href="#disaster-recovery-protection-planning/" class="nav-link">Disaster Recovery & Protection Planning</a></li>
+                            <li class="nav-item"><a href="compromise-assessment-black-team.php" class="nav-link">Compromise Assessment Black Team</a></li>
+                            <li class="nav-item"><a href="cyber-breach-investigations.php" class="nav-link">Cyber Breach Investigations</a></li>
+                            <li class="nav-item"><a href="breach-response.php" class="nav-link">Breach Response</a></li>
+                            <li class="nav-item"><a href="response-readiness-assessment.php" class="nav-link">Response Readiness Assessment</a></li>
+                            <li class="nav-item"><a href="disaster-recovery-protection-planning.php" class="nav-link">Disaster Recovery & Protection Planning</a></li>
                         </ul>
                     </li>
                     <li class="nav-item"><a href="about.php" class="nav-link">About Us</a></li>
@@ -176,16 +177,16 @@
 							</div>
 						</div>
 						
-						<div class="container">
+						<div id= "mobile-nav" class="container">
 							<div class="option-inner">
 								<div class="others-option justify-content-center d-flex align-items-center">
-									<div class="get-quote">
+									<div class="mob-menu get-quote">
 										<a href="index.php" class="default-btn">
 											<span>Get a Quote</span>
 										</a>
 									</div>
 
-									<div class="cart-icon">
+									<div class="mob-menu cart-icon">
 										<a href="shopping-cart.php">
 											<i class="bx bx-cart"></i>
 											<span>0</span>

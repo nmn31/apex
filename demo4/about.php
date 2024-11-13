@@ -1,317 +1,139 @@
-<?php include "header-2.php" ; ?>
-		<!-- End Header Area -->
+<?php include "header-2.php"; ?>
 
-		<!-- Start Page Title Area -->
-		<div class="page-title-area">
-			<div class="container">
-				<div class="page-title-content">
-					<h2>About Us</h2>
-					<ul>
-						<li>
-							<a href="index.php">
-								<i class="bx bx-home"></i>
-								Home 
-							</a>
-						</li>
-						<li class="active">About Us</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		<!-- End Page Title Area -->
-
-		<!-- Start About Us Area -->
-<section class="about-us-area pt-100 pb-70">
-	<div class="container">
-		<div class="row align-items-center">
-			<div class="col-lg-6">
-				<div class="about-img">
-					<img src="images/about-img.jpg" alt="Apex Cybersecurity Team">
-				</div>
-			</div>
-
-			<div class="col-lg-6">
-				<div class="about-content">
-					<div class="about-title">
-						<span>About Apex</span>
-						<h2>Securing Your Digital Future - Apex Cybersecurity Solutions</h2>
-					</div>
-
-					<p>Apex is committed to delivering cutting-edge cybersecurity solutions to safeguard your organization from evolving threats. Our team of experts works tirelessly to protect your assets, data, and reputation, ensuring resilience against today’s sophisticated cyber attacks.</p>
-
-					<div class="tab">
-						<ul class="tabs">
-							<li>Our Experience</li>
-							<li>Why Apex?</li>
-							<li>Our Approach</li>
-						</ul>
-
-						<div class="tab_content">
-							<div class="tabs_item">
-								<p>With years of industry experience, Apex specializes in identifying, managing, and mitigating cyber threats. Our solutions are trusted by numerous organizations to strengthen their digital defenses.</p>
-								<ul>
-									<li><i class="bx bx-check-circle"></i> Experienced Security Experts</li>
-									<li><i class="bx bx-check-circle"></i> Innovative Cyber Defense Strategies</li>
-									<li><i class="bx bx-check-circle"></i> Advanced Threat Intelligence</li>
-									<li><i class="bx bx-check-circle"></i> Continuous Monitoring & Support</li>
-								</ul>
-							</div>
-
-							<div class="tabs_item">
-								<p>Why partner with Apex? We offer unparalleled expertise, a proactive approach, and a commitment to delivering customized cybersecurity solutions. Your protection is our priority.</p>
-								<ul>
-									<li><i class="bx bx-check-circle"></i> Trusted Partner in Cybersecurity</li>
-									<li><i class="bx bx-check-circle"></i> Comprehensive Security Solutions</li>
-									<li><i class="bx bx-check-circle"></i> Robust Data Protection</li>
-									<li><i class="bx bx-check-circle"></i> Client-Focused Support</li>
-								</ul>
-							</div>
-
-							<div class="tabs_item">
-								<p>Our approach combines proactive risk assessment, real-time monitoring, and rapid response to keep your systems secure. We’re here to help you stay one step ahead of cyber threats.</p>
-								<ul>
-									<li><i class="bx bx-check-circle"></i> Proactive Security Assessments</li>
-									<li><i class="bx bx-check-circle"></i> 24/7 Threat Detection</li>
-									<li><i class="bx bx-check-circle"></i> Rapid Incident Response</li>
-									<li><i class="bx bx-check-circle"></i> Customized Defense Strategies</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<!-- Hero Section -->
+<section class="page-title-area">
+    <div class="container">
+        <div class="page-title-content">
+            <h2 class="animated fadeInDown">About Us</h2>
+            <p class="lead animated fadeIn">Empowering businesses with advanced cybersecurity solutions and IT services.</p>
+            <ul>
+                <li>
+                    <a href="index.php">
+                        <i class="bx bx-home"></i>
+                        Home
+                    </a>
+                </li>
+                <li class="active">Learn more about Apex and how we are shaping the future of cybersecurity and IT solutions.</li>
+            </ul>
+        </div>
+    </div>
 </section>
-<!-- End About Us Area -->
 
-<!-- Start Our Challenges Area -->
-<section class="challenges-area pt-100 pb-70 jarallax" data-jarallax='{"speed": 0.3}'>
-	<div class="container">
-		<div class="section-title white-title">
-			<span>Our Challenges</span>
-			<h2>Protecting Your Business Against Cyber Threats</h2>
-		</div>
-
-		<div class="row">
-			<div class="col-lg-3 col-sm-6">
-				<div class="single-challenges overly-one">
-					<div class="overly-two">
-						<i class="flaticon-threat"></i>
-						<h3>Identifying Threats</h3>
-						<p>We continuously monitor and assess the threat landscape to detect emerging risks that could impact your organization.</p>
-						<span class="flaticon-threat"></span>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-3 col-sm-6">
-				<div class="single-challenges overly-one">
-					<div class="overly-two">
-						<i class="flaticon-cyber"></i>
-						<h3>Cyber Risk Assessment</h3>
-						<p>Our experts conduct in-depth assessments to identify vulnerabilities and measure your risk exposure.</p>
-						<span class="flaticon-cyber"></span>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-3 col-sm-6">
-				<div class="single-challenges overly-one">
-					<div class="overly-two">
-						<i class="flaticon-cyber-security-1"></i>
-						<h3>Testing Cyber Security</h3>
-						<p>Through penetration testing and simulations, we evaluate your defenses against potential <br> attacks.</p>
-						<span class="flaticon-cyber-security-1"></span>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-3 col-sm-6">
-				<div class="single-challenges overly-one">
-					<div class="overly-two">
-						<i class="flaticon-password"></i>
-						<h3>Managing Cloud Security</h3>
-						<p>Our cloud security solutions ensure your data remains safe, compliant, and resilient against breaches.</p>
-						<span class="flaticon-password"></span>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<!-- About Apex Section -->
+<section class="content-section" id="about">
+    <div class="container">
+        <h2>Who We Are</h2>
+        <p>Apex is a leading provider of cutting-edge cybersecurity solutions, IT services, and strategic consulting for businesses of all sizes. Founded with a mission to help organizations safeguard their digital assets, we offer a comprehensive suite of services designed to protect businesses from ever-evolving cyber threats.</p>
+        <p>Our team consists of experienced professionals with deep expertise in cybersecurity, managed services, threat detection, and cloud security, enabling us to deliver tailored solutions that ensure your business remains secure and resilient in the face of challenges.</p>
+    </div>
 </section>
-<!-- End Our Challenges Area -->
 
-		<!-- End Our Challenges Area -->
+<!-- Our Mission Section -->
+<section class="content-section" id="mission">
+    <div class="container">
+        <h2>Our Mission</h2>
+        <p>At Apex, our mission is simple: to provide businesses with the most advanced cybersecurity solutions, empowering them to operate securely in an increasingly complex digital landscape. We strive to be a trusted partner for organizations looking to enhance their security posture, minimize risks, and achieve compliance with industry regulations.</p>
+        <p>We believe that security is not just about protecting data—it’s about fostering trust, innovation, and growth. Our commitment to excellence drives us to continually improve our services and ensure that we provide the most effective and up-to-date solutions for our clients.</p>
+    </div>
+</section>
 
-		<!-- Start Protect Area -->
-		<section class="protect-area pt-100 pb-70">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-6">
-						<div class="protect-img">
-							<img src="images/protect-img.jpg" alt="Image">
-						</div>
-					</div>
+<!-- Our Values Section -->
+<section class="content-section" id="values">
+    <div class="container">
+        <h2>Our Core Values</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Integrity</h5>
+                        <p class="card-text">We uphold the highest standards of honesty and transparency, ensuring that we always act in the best interest of our clients.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Innovation</h5>
+                        <p class="card-text">We embrace innovation and continuously evolve our solutions to stay ahead of emerging cyber threats.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Customer Centricity</h5>
+                        <p class="card-text">We put our customers at the center of everything we do, ensuring that we provide personalized services that meet their unique needs.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-					<div class="col-lg-6">
-						<div class="protect-content">
-							<div class="protect-title">
-								<span>Cyber Security Protect</span>
-								<h2>Protect your website, web server, and web application for helping you being threats from the hacker</h2>
-							</div>
+<!-- Our Team Section -->
+<section class="content-section" id="team">
+    <div class="container">
+        <h2>Meet Our Team</h2>
+        <p>Our team is made up of industry-leading professionals with years of experience in cybersecurity and IT services. Together, we work relentlessly to provide our clients with top-tier security solutions and unparalleled support.</p>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="images/team/member1.jpg" alt="Team Member">
+                    <div class="card-body">
+                        <h5 class="card-title">John Doe</h5>
+                        <p class="card-text">CEO & Founder</p>
+                        <p>John leads Apex with over 15 years of experience in cybersecurity and strategic IT management.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="images/team/member2.jpg" alt="Team Member">
+                    <div class="card-body">
+                        <h5 class="card-title">Jane Smith</h5>
+                        <p class="card-text">Chief Technology Officer</p>
+                        <p>Jane drives innovation at Apex, overseeing the development and implementation of cutting-edge security technologies.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="images/team/member3.jpg" alt="Team Member">
+                    <div class="card-body">
+                        <h5 class="card-title">Alex Lee</h5>
+                        <p class="card-text">Lead Security Analyst</p>
+                        <p>With a deep understanding of cyber threats, Alex ensures that Apex’s security solutions stay one step ahead of evolving risks.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-							<div class="row">
-								<div class="col-lg-6 col-sm-6">
-									<div class="single-challenges overly-one">
-										<div class="overly-two">
-											<i class="flaticon-database"></i>
-											<h3>Database Security</h3>
-											<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
-											<span class="flaticon-database"></span>
-										</div>
-									</div>
-								</div>
+<!-- Our Services Section -->
+<section class="content-section" id="services">
+    <div class="container">
+        <h2>Our Services</h2>
+        <p>Apex provides a wide range of services designed to protect your business from cyber threats, enhance your IT infrastructure, and help you achieve compliance. Our offerings include:</p>
+        <ul class="list-unstyled service-list">
+            <li>Managed Security Services</li>
+            <li>Threat Detection and Response</li>
+            <li>Cloud Security Solutions</li>
+            <li>Incident Management and Forensics</li>
+            <li>Compliance and Regulatory Support</li>
+            <li>Security Training and Awareness Programs</li>
+        </ul>
+    </div>
+</section>
 
-								<div class="col-lg-6 col-sm-6">
-									<div class="single-challenges overly-one">
-										<div class="overly-two">
-											<i class="flaticon-application"></i>
-											<h3>Database Security</h3>
-											<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
-											<span class="flaticon-application"></span>
-										</div>
-									</div>
-								</div>
+<!-- Call to Action Section -->
+<section class="content-section text-center" id="contact">
+    <div class="container">
+        <h2>Get In Touch With Us</h2>
+        <p>If you're ready to secure your business with Apex's trusted cybersecurity solutions, reach out today. Our team is here to help you stay protected.</p>
+        <a href="#" class="btn btn-primary cta-btn">Contact Us</a>
+    </div>
+</section>
 
-								<div class="col-lg-6 col-sm-6">
-									<div class="single-challenges overly-one">
-										<div class="overly-two">
-											<i class="flaticon-security"></i>
-											<h3>Web Security</h3>
-											<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
-											<span class="flaticon-security"></span>
-										</div>
-									</div>
-								</div>
-
-								<div class="col-lg-6 col-sm-6">
-									<div class="single-challenges overly-one">
-										<div class="overly-two">
-											<i class="flaticon-security-1"></i>
-											<h3>Server Security</h3>
-											<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
-											<span class="flaticon-security-1"></span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- Eed Protect Area -->
-
-		<!-- Start Testimonials Area -->
-		<section class="testimonials-area ptb-100 jarallax" data-jarallax="{" speed":="" 0.3}"="">
-			<div class="container">
-				<div class="testimonials">
-					<span>What our customers say</span>
-
-					<div class="testimonials-slider owl-carousel owl-theme">
-						<div class="testimonials-item">
-							<i class="flaticon-quote"></i>
-							<p>“Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”</p> 
-							
-							<ul>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-							</ul>
-
-							<h3>Jastin Anderson</h3>
-							<span>CEO</span>
-						</div>
-						<div class="testimonials-item">
-							<i class="flaticon-quote"></i>
-							<p>“Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”</p> 
-							
-							<ul>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-								<li>
-									<i class="bx bxs-star"></i>
-								</li>
-							</ul>
-
-							<h3>Juhon Anderson</h3>
-							<span>Manager</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- Eed Testimonials Area -->
-
-		<!-- Start Partner Area -->
-		<div class="partner-area bg-color ptb-70">
-			<div class="container">
-				<div class="partner-slider owl-theme owl-carousel">
-					<div class="partner-item">
-						<a href="index.php">
-							<img src="images/partner-1.png" alt="Image">
-						</a>
-					</div>
-
-					<div class="partner-item">
-						<a href="index.php">
-							<img src="images/partner-2.png" alt="Image">
-						</a>
-					</div>
-
-					<div class="partner-item">
-						<a href="index.php">
-							<img src="images/partner-3.png" alt="Image">
-						</a>
-					</div>
-
-					<div class="partner-item">
-						<a href="index.php">
-							<img src="images/partner-4.png" alt="Image">
-						</a>
-					</div>
-
-					<div class="partner-item">
-						<a href="index.php">
-							<img src="images/partner-5.png" alt="Image">
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- End Partner Area -->
-
-<?php include "footer.php" ; ?>
+<!-- Footer -->
+<?php include "footer.php"; ?>

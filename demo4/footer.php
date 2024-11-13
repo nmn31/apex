@@ -150,7 +150,40 @@
 		</div>
 		<!-- End Go Top Area -->
 		
+       <script>
+	   // Define the 'ce' object if it doesn't exist already
+var ce = ce || {};
 
+// Define the phpPrefilter function inside the 'ce' object
+ce.phpPrefilter = function() {
+    // This function can include any logic you need.
+    console.log("phpPrefilter function is called.");
+    
+    // Example of custom logic:
+    // You can manipulate data, filter content, etc.
+    // Let's assume we're filtering data before sending it to a server or API
+
+    // Sample code to manipulate a form's data or perform a check
+    let formData = {
+        username: "JohnDoe",
+        email: "johndoe@example.com"
+    };
+
+    // Here you could do something like validate or modify the data
+    if (formData.username === "JohnDoe") {
+        console.log("Username is correct.");
+    }
+
+    // Returning modified data (if necessary)
+    return formData;
+};
+
+// Optionally, you can add more methods inside the 'ce' object if needed
+ce.anotherFunction = function() {
+    console.log("Another function in 'ce'.");
+};
+
+	   </script>
        <!-- Links of JS files -->
         <script data-cfasync="false" src="js/email-decode.min.js"></script><script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.bundle.min.js"></script>
