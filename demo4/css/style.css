@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&display=swap);
+@import url(../../../css2);
 
 a,
 body {
@@ -5027,7 +5027,7 @@ ul {
             color: #fff;
             padding: 80px 0;
             text-align: center;
-            background-image: url('https://via.placeholder.com/1600x600/003366/FFFFFF?text=Incident+Response+and+Forensics');
+            background-image: url('../../../1600x600/003366/FFFFFF');
             background-size: cover;
             background-position: center;
         }
