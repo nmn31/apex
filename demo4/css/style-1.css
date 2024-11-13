@@ -291,7 +291,7 @@ ul {
 
 .default-btn,
 .top-header {
-	background-color: #e21f36
+	background-color: #012ea5
 }
 
 .default-btn {
@@ -341,7 +341,7 @@ ul {
 }
 
 .default-btn:hover {
-	background-color: #ff5a00;
+	background-color: #595151;
 	color: #fff
 }
 
@@ -391,7 +391,7 @@ ul {
 .top-header.top-header-three .header-right-content li a:hover i,
 .user-area-style .contact-form-action form .form-condition .agree-label a,
 .user-area-style .contact-form-action p a:hover {
-	color: #e21f36
+	color: #ffffff
 }
 
 @keyframes left {
@@ -441,7 +441,7 @@ ul {
 
 #validator-newsletter,
 .list-unstyled {
-	color: #dc3545;
+	
 	margin-top: 10px
 }
 
@@ -461,7 +461,7 @@ ul {
 .section-title span {
 	display: block;
 	margin-bottom: 12px;
-	color: #e21f36;
+	color: #111111;
 	font-weight: 600
 }
 
@@ -480,16 +480,10 @@ ul {
 .banner-area.banner-area-two .banner-content p,
 .blog-area.blog-area-four .single-blog .blog-content h3 a,
 .blog-area.blog-area-four .single-blog .blog-content p,
-.challenges-area.challenges-area-two .single-challenges:hover h3,
 .challenges-area.challenges-area-two .single-challenges:hover i,
 .challenges-area.challenges-area-two .single-challenges:hover p,
 .copy-right-area .footer-menu li a,
 .copy-right-area p,
-.feature-area.feature-area-five .single-feature h3,
-.feature-area.feature-area-five .single-feature p,
-.feature-area.feature-area-four .single-feature h3,
-.feature-area.feature-area-four .single-feature p,
-.feature-area.feature-area-two .single-feature:hover i,
 .go-top:focus,
 .navbar-area .main-nav nav .navbar-nav .nav-item a.active,
 .navbar-area .main-nav nav .navbar-nav .nav-item a:hover,
@@ -513,8 +507,6 @@ ul {
 .section-title.white-title p,
 .section-title.white-title span,
 .services-sidebar .services-category ul li:hover a i,
-.single-feature:hover .title h3,
-.single-feature:hover p,
 .single-footer-widget .address,
 .single-footer-widget .address li a:hover,
 .single-footer-widget .import-link li a:hover,
@@ -533,7 +525,7 @@ ul {
 .single-team .team-content ul li a,
 .top-header .header-left-content li a:hover,
 .top-header .header-right-content li a:hover i {
-	color: #fff
+	color: #ffffff
 }
 
 .header-area {
@@ -662,7 +654,7 @@ ul {
 }
 
 .navbar-area {
-	background-color: rgba(255, 255, 255, .08)
+	background-color: rgb(255 255 255)
 }
 
 .navbar-area .main-nav {
@@ -887,12 +879,12 @@ ul {
 }
 
 .others-option-for-responsive .dot-menu {
-	padding: 0 10px;
+	
 	height: 30px;
 	cursor: pointer;
 	z-index: 9991;
 	position: absolute;
-	right: 60px;
+	right: 20px;
 	top: 21px
 }
 
@@ -914,7 +906,7 @@ ul {
 .challenges-area.challenges-area-two .single-challenges:hover,
 .checkout-area .faq-accordion .accordion .accordion-title.active::after,
 .checkout-area .faq-accordion .accordion .accordion-title.active::before,
-.feature-area.feature-area-two .single-feature:hover,
+.feature-area.feature-area-two,
 .others-option-for-responsive .dot-menu:hover .inner .circle,
 .services-sidebar .services-pdf ul li:hover a,
 .single-footer-widget .social-icon li a:hover i,
@@ -1121,19 +1113,19 @@ ul {
 }
 
 .banner-area.bg-1 {
-	background: url(../images/banner-bg-1.jpg) left top no-repeat
+	background: url(../images/banner-bg-1-1.jpg) left top no-repeat
 }
 
 .banner-area.bg-2 {
-	background-image: url(../images/banner-bg-2.jpg)
+	background-image: url(../images/banner-bg-2-1.jpg)
 }
 
 .banner-area.bg-4 {
-	background-image: url(../images/banner-bg-4.jpg)
+	background-image: url(../images/banner-bg-4-1.jpg)
 }
 
 .banner-area.bg-5 {
-	background-image: url(../images/banner-bg-5.jpg)
+	background-image: url(../images/banner-bg-5-1.jpg)
 }
 
 .banner-area.banner-area-two {
@@ -1346,13 +1338,16 @@ ul {
 	right: 0;
 	opacity: .4
 }
-
+section.our-approach-area.our-approach-area-four.pb-70 {
+    background: aliceblue;
+    padding: 50px;
+}
 .feature-area.feature-area-five .single-feature,
 .feature-area.feature-area-four .single-feature,
 .protect-area.protect-area-four .single-challenges,
 .sidebar-widget.search .search-form .search-button:hover,
 .single-pricing.active {
-	background-color: #000219
+	background-color: #ffffff
 }
 
 .single-feature {
@@ -1373,7 +1368,7 @@ ul {
 	top: 0;
 	font-size: 50px;
 	line-height: 1;
-	color: #e21f36;
+	color: #012ea5;
 	transition: .5s
 }
 
@@ -1394,7 +1389,7 @@ ul {
 
 .single-feature:hover .title i {
 	transform: rotateY(360deg);
-	color: #fff
+	color: #012ea5
 }
 
 .our-approach-area.our-approach-area-four .col-lg-6 .row .col-lg-6:first-child .single-approach,
@@ -1456,7 +1451,7 @@ ul {
 
 .single-approach {
 	background-color: #fff;
-	border-left: 2px solid #e21f36;
+	border-left: 2px solid #012ea5;
 	padding: 20px;
 	margin-bottom: 30px;
 	transition: .5s;
@@ -1481,7 +1476,7 @@ ul {
 }
 
 .challenges-area {
-	background-image: url(../images/challenges-bg.jpg);
+	background-image: url(../images/challenges-bg-1.jpg);
 	position: relative;
 	overflow: hidden;
 	z-index: 1
@@ -1523,7 +1518,7 @@ ul {
 
 .single-challenges i {
 	font-size: 50px;
-	color: #e21f36;
+	color: #012ea5;
 	line-height: 1;
 	margin-bottom: 20px;
 	display: block
@@ -1692,7 +1687,7 @@ ul {
 }
 
 .solution-img {
-	background-image: url(../images/solution-img.png);
+	background-image: url(../images/solution-img-1.png);
 	height: 100%;
 	padding-bottom: 30px
 }
@@ -1708,7 +1703,7 @@ ul {
 }
 
 .get-in-touch-area {
-	background-image: url(../images/get-in-touch-bg.jpg);
+	background-image: url(../images/get-in-touch-bg-1.jpg);
 	z-index: 1
 }
 
@@ -1806,7 +1801,7 @@ ul {
 }
 
 .testimonials-area {
-	background-image: url(../images/testimonials-bg.jpg);
+	background-image: url(../images/testimonials-bg-1.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1968,7 +1963,7 @@ ul {
 }
 
 .footer-area {
-	background-image: url(../images/footer-bg.jpg);
+	background-image: url(../images/footer-bg-1.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1983,7 +1978,7 @@ ul {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #000219;
+	background-color: #1f1f1f;
 	opacity: .95;
 	z-index: -1
 }
@@ -2036,7 +2031,7 @@ ul {
 .single-footer-widget .address .location i,
 .single-footer-widget .address li i {
 	position: absolute;
-	color: #e21f36;
+	
 	left: 0;
 	top: 5px;
 	font-size: 25px
@@ -2061,14 +2056,14 @@ ul {
 }
 
 .single-footer-widget .import-link li::before {
-	content: "";
-	position: absolute;
-	top: 7px;
-	left: 0;
-	width: 11px;
-	height: 11px;
-	background-color: #e21f36;
-	transition: .5s
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 0;
+    width: 6px;
+    height: 5px;
+    background-color: #ffffff;
+    transition: .5s;
 }
 
 .single-footer-widget .import-link li a {
@@ -2101,7 +2096,7 @@ ul {
 }
 
 .copy-right-area p a {
-	color: #e21f36;
+	color: #858585;
 	font-weight: 600
 }
 
@@ -2223,7 +2218,7 @@ ul {
 }
 
 .counter-area {
-	background-image: url(../images/counter-bg.jpg);
+	background-image: url(../images/counter-bg-1.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -2500,11 +2495,12 @@ ul {
 }
 
 .page-title-area {
+	margin-top: 157px;
 	position: relative;
 	overflow: hidden;
 	text-align: center;
 	z-index: 1;
-	background-color: #000219;
+	background-color: ##002c9f ;
 	padding-top: 100px;
 	padding-bottom: 100px
 }
@@ -2517,7 +2513,7 @@ ul {
 	right: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url(../images/page-bg-shape.png);
+	background-image: url(../images/page-bg-shape-1.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -2690,7 +2686,7 @@ ul {
 .coming-soon-area {
 	height: 100vh;
 	position: relative;
-	background-image: url(../images/coming-soon-bg.jpg);
+	background-image: url(../images/coming-soon-bg-1.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4659,7 +4655,7 @@ ul {
 .preloader::after,
 .preloader::before {
 	width: 60%;
-	background: #e21f36;
+	background: #012ea5;
 	transition: .5s;
 	content: "";
 	z-index: -1
@@ -4816,7 +4812,7 @@ ul {
 .video-btn::before {
 	border-radius: 50%;
 	transition: .5s;
-	background-color: rgba(255, 42, 96, .9)
+	background-color: #333333
 }
 
 .go-top:focus i:first-child,
@@ -5103,7 +5099,7 @@ ul {
         }
 
         ul li {
-            margin-bottom: 10px;
+           /* margin-bottom: 10px;*/
         }
 
         /* Responsive Design */
@@ -5114,10 +5110,21 @@ ul {
             .hero-section p {
                 font-size: 18px;
             }
+			.top-header .container .row {
+				display:none;
+				
+			}
+			.top-header {
+				height:70px;
+				
+			}
+			.default-btn, .top-header {
+    background-color: #ffffff;
+}
         }
 		
 		.single-feature.overly-one {
-    min-height: 273px;
+    min-height: 320px;
 }
 
 .hero-section {
@@ -5209,7 +5216,7 @@ ul {
     }
 
     .btn-primary {
-        background-color: #ff6f61;
+        background-color: #012ea5;
         padding: 12px 30px;
         color: white;
         font-size: 1.25rem;
@@ -5238,7 +5245,7 @@ ul {
 
     .benefit-item .bx {
         font-size: 3rem;
-        color: #ff6f61;
+        color: #012ea5;
         margin-bottom: 15px;
     }
 
@@ -5251,13 +5258,13 @@ ul {
     .apply-now .btn {
         font-size: 1.25rem;
         padding: 12px 30px;
-        background-color: #ff6f61;
+        background-color: #012ea5;
         color: white;
         border-radius: 5px;
     }
 
     .apply-now .btn:hover {
-        background-color: #ff3b2f;
+        background-color: #012ec0;
     }
 	.breadcrumb {
     list-style: none;
@@ -5317,5 +5324,247 @@ ul {
   opacity: 1 !important;
   transition: opacity 0.3s ease, visibility 0s 0s;
 }
+a.nav-link {
+    color: black !important;
+}
+.navbar-area.navbar-area-four {
+	position: fixed;
+    width: 100%;
+}
 
+.mob-menu ul li a.nav-link {
+    color: white !important;
+}
 
+/* Initial hidden state of the dropdown menu */
+.dropdown-menu {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 1s ease, opacity 0.4s ease;
+}
+
+/* Visible state with animation */
+.dropdown-menu.show {
+    max-height: 500px;
+    opacity: 1;
+    background: #222324;
+   
+}
+
+#mobile-nav .dropdown-menu.show {
+    max-height: 500px;
+    opacity: 1;
+    background: #222324;
+    text-align: center;
+}
+.mob-menu.get-quote.visible {
+	
+	width: 330px;
+}
+/* Hidden state */
+#mobile-nav {
+    max-height: 0;
+    opacity: 0;
+    
+    transition: max-height 1s ease, opacity 1s ease;
+	display:none;
+}
+
+/* Visible state */
+#mobile-nav.active {
+    max-height: 500px; /* Adjust this based on content */
+    opacity: 1;
+	display:block;
+}
+h2.animated.fadeInDown {
+    color: #ffffff;
+}
+p.lead.animated.fadeIn {
+	 color: #ffffff;
+}
+.container.text-center {
+    padding-top: 88px;
+}
+.page-title-area {
+    color: #000000 !important;
+	background: url(../images/banner-bg-4-1.jpg) !important
+}
+
+/* Hamburger icon (3 bars) */
+.hamburger-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 35px;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 14px;
+    z-index: 999;
+    position: absolute;
+    right: 20px;
+}
+
+.bar {
+    width: 100%;
+    height: 6px;
+    background-color: #012ea5;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hamburger to X animation */
+.hamburger-menu.active .bar-one {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.hamburger-menu.active .bar-two {
+    opacity: 0;
+}
+
+.hamburger-menu.active .bar-three {
+    transform: rotate(-45deg) translate(5px, -5px);
+}
+header.header-area.p-relative {
+	position:fixed;
+}
+
+    /* Hero section header animation */
+    .service-header {
+        font-size: 3rem;
+        font-weight: bold;
+        color: #1a1a1a;
+        animation: fadeInUp 1s ease-out;
+    }
+
+    /* Service description animation */
+    .service-description {
+        font-size: 1.25rem;
+        color: #555;
+        animation: fadeInUp 1.5s ease-out;
+    }
+
+    /* Hover effect for images */
+    .hover-zoom:hover {
+        transform: scale(1.1);
+        transition: transform 0.3s ease-in-out;
+    }
+
+    /* Hover effect for cards */
+    .hover-card:hover {
+        transform: scale(1.05);
+        transition: transform 0.3s ease-in-out;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Process step animation */
+    .process-step {
+        padding: 20px;
+        border: 1px solid #ddd;
+        background-color: #fff;
+        margin-bottom: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease;
+    }
+
+    .process-step:hover {
+        transform: translateY(-5px);
+    }
+
+    /* Animation for fadeInUp */
+    @keyframes fadeInUp {
+        0% {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    /* Animation delays for different sections */
+    .animated {
+        animation: fadeInUp 1s ease-out forwards;
+    }
+
+    .delay-1s {
+        animation-delay: 1s;
+    }
+
+    .delay-2s {
+        animation-delay: 2s;
+    }
+
+    .delay-3s {
+        animation-delay: 3s;
+    }
+
+    .delay-4s {
+        animation-delay: 4s;
+    }
+
+    .delay-5s {
+        animation-delay: 5s;
+    }
+
+    .delay-6s {
+        animation-delay: 6s;
+    }
+
+    .delay-7s {
+        animation-delay: 7s;
+    }
+
+    .delay-8s {
+        animation-delay: 8s;
+    }
+
+    .delay-9s {
+        animation-delay: 9s;
+    }
+
+    .delay-10s {
+        animation-delay: 10s;
+    }
+
+    .delay-11s {
+        animation-delay: 11s;
+    }
+
+    .delay-12s {
+        animation-delay: 12s;
+    }
+
+    .delay-13s {
+        animation-delay: 13s;
+    }
+
+    .delay-14s {
+        animation-delay: 14s;
+    }
+
+    .delay-15s {
+        animation-delay: 15s;
+    }
+
+    .delay-16s {
+        animation-delay: 16s;
+    }
+	img.img-fluid.rounded.shadow-lg.hover-zoom.animated.fadeInUp.delay-4s {
+    height: 418px;
+    width: 500px;
+}
+.al-center{
+	    align-content: center;
+}
+.card {
+    min-height: 200px !important;
+}
+.process-step {
+    min-height: 200px !important;
+}
+img.card-img-top {
+    max-height: 267px;
+}
