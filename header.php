@@ -71,7 +71,7 @@
 									<div class="mob-menu get-quote">
 										 <ul class="navbar-nav m-auto">
 							<li class="nav-item">
-								<a href="#index.php" class="nav-link active">Research Lab <i class="bx bx-chevron-down"></i></a>
+								<a href="#index.php" class="nav-link">Research Lab <i class="bx bx-chevron-down"></i></a>
 								<ul class="dropdown-menu">
 									<li class="nav-item"><a href="cloud-and-network-security-assessments.php" class="nav-link">Cloud and Network Security Assessments</a></li>
 									<li class="nav-item"><a href="incident-response-and-digital-forensics.php" class="nav-link">Incident Response and Digital Forensics</a></li>
@@ -172,7 +172,7 @@
             <div id = "navbar-nav-1" class="collapse navbar-collapse mean-menu">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item">
-                        <a href="index.php" class="nav-link active">Research Lab <i class="bx bx-chevron-down"></i></a>
+                        <a href="index.php" class="nav-link">Research Lab <i class="bx bx-chevron-down"></i></a>
                         <ul class="dropdown-menu">
                             <li class="nav-item"><a href="cloud-and-network-security-assessments.php" class="nav-link">Cloud and Network Security Assessments</a></li>
                             <li class="nav-item"><a href="incident-response-and-digital-forensics.php" class="nav-link">Incident Response and Digital Forensics</a></li>
