@@ -5507,8 +5507,9 @@ p.lead.animated.fadeIn {
     transform: rotate(-45deg) translate(5px, -5px);
 }
 header.header-area.p-relative {
-	position:fixed;
-	background: aliceblue; 
+    position: fixed;
+    background: aliceblue;
+    height: 60px;
 }
 
 
