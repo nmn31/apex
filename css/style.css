@@ -5124,7 +5124,8 @@ section.our-approach-area.our-approach-area-four.pb-70 {
         @media (max-width: 768px) {
 			header.header-area.p-relative {
     position: fixed;
-    height: 59px;
+    height: 59px !impotant;
+	background: aliceblue;
 }
 			.section-title {
     font-size: 30px !important;
