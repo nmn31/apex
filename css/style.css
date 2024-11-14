@@ -23,12 +23,6 @@ textarea.form-control {
 	width: 100%;
 	content: ""
 }
-.top-header {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    /* position: fixed; */
-    display: none;
-}
 
 .banner-area,
 .challenges-area {
@@ -2569,7 +2563,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 }
 
 .page-title-area.page-title-style-two {
-	padding-top: 128px;
+	padding-top: 260px;
 	padding-bottom: 100px
 }
 
@@ -5122,11 +5116,6 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 
         /* Responsive Design */
         @media (max-width: 768px) {
-			header.header-area.p-relative {
-    position: fixed;
-    height: 59px !impotant;
-	background: aliceblue;
-}
 			.section-title {
     font-size: 30px !important;
     margin-bottom: 30px;
@@ -5507,11 +5496,8 @@ p.lead.animated.fadeIn {
     transform: rotate(-45deg) translate(5px, -5px);
 }
 header.header-area.p-relative {
-    position: fixed;
-    background: aliceblue;
-    height: 60px;
+	position:fixed;
 }
-
 
     /* Hero section header animation */
     .service-header {
