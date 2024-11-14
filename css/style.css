@@ -23,6 +23,12 @@ textarea.form-control {
 	width: 100%;
 	content: ""
 }
+.top-header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /* position: fixed; */
+    display: none;
+}
 
 .banner-area,
 .challenges-area {
@@ -2563,7 +2569,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 }
 
 .page-title-area.page-title-style-two {
-	padding-top: 260px;
+	padding-top: 128px;
 	padding-bottom: 100px
 }
 
