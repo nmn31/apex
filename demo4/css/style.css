@@ -1,4 +1,4 @@
-@import url(../../../css2);
+
 
 a,
 body {
@@ -1113,19 +1113,19 @@ ul {
 }
 
 .banner-area.bg-1 {
-	background: url(../images/banner-bg-1-1.jpg) left top no-repeat
+	background: url(../images/banner-bg-1.jpg) left top no-repeat
 }
 
 .banner-area.bg-2 {
-	background-image: url(../images/banner-bg-2-1.jpg)
+	background-image: url(../images/banner-bg-2.jpg)
 }
 
 .banner-area.bg-4 {
-	background-image: url(../images/banner-bg-4-1.jpg)
+	background-image: url(../images/banner-bg-4.jpg)
 }
 
 .banner-area.bg-5 {
-	background-image: url(../images/banner-bg-5-1.jpg)
+	background-image: url(../images/banner-bg-5.jpg)
 }
 
 .banner-area.banner-area-two {
@@ -1476,7 +1476,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 }
 
 .challenges-area {
-	background-image: url(../images/challenges-bg-1.jpg);
+	background-image: url(../images/challenges-bg.jpg);
 	position: relative;
 	overflow: hidden;
 	z-index: 1
@@ -1687,7 +1687,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 }
 
 .solution-img {
-	background-image: url(../images/solution-img-1.png);
+	background-image: url(../images/solution-img.png);
 	height: 100%;
 	padding-bottom: 30px
 }
@@ -1703,7 +1703,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 }
 
 .get-in-touch-area {
-	background-image: url(../images/get-in-touch-bg-1.jpg);
+	background-image: url(../images/get-in-touch-bg.jpg);
 	z-index: 1
 }
 
@@ -1801,7 +1801,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 }
 
 .testimonials-area {
-	background-image: url(../images/testimonials-bg-1.jpg);
+	background-image: url(../images/testimonials-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1961,9 +1961,11 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 	display: block;
 	margin-bottom: 12px
 }
-
+.accordion .card {
+    min-height: 10px !important;
+}
 .footer-area {
-	background-image: url(../images/footer-bg-1.jpg);
+	background-image: url(../images/footer-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1985,7 +1987,8 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 
 .single-footer-widget p {
 	margin-bottom: 20px;
-	color: #fff
+	color: #fff;
+	margin-top: 20px;
 }
 
 .single-footer-widget .social-icon li {
@@ -2218,7 +2221,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 }
 
 .counter-area {
-	background-image: url(../images/counter-bg-1.jpg);
+	background-image: url(../images/counter-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -2513,7 +2516,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 	right: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url(../images/page-bg-shape-1.png);
+	background-image: url(../images/page-bg-shape.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -2553,7 +2556,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 	position: absolute;
 	top: 6px;
 	right: -3px;
-	background-color: #e21f36;
+	background-color: #ffffff;
 	width: 1px;
 	height: 15px;
 	transform: rotate(25deg)
@@ -2686,7 +2689,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 .coming-soon-area {
 	height: 100vh;
 	position: relative;
-	background-image: url(../images/coming-soon-bg-1.jpg);
+	background-image: url(../images/coming-soon-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4512,7 +4515,7 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 
 .main-contact-area .contact-info .address .location i {
 	position: absolute;
-	color: #e21f36;
+	color: #012ea5;
 	left: 0;
 	top: 5px;
 	font-size: 45px
@@ -4533,13 +4536,14 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 }
 
 .main-contact-area .contact-info .address li a {
-	color: #4b5280;
+	color: #012ea5;
 	display: block
 }
 
+
 .main-contact-area .contact-info .address li i {
 	position: absolute;
-	color: #e21f36;
+	color: #012ea5;
 	left: 0;
 	top: 0;
 	font-size: 45px
@@ -5101,12 +5105,48 @@ section.our-approach-area.our-approach-area-four.pb-70 {
         ul li {
            /* margin-bottom: 10px;*/
         }
+		.single-feature {
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    transition: .5s;
+    background-color: #fff;
+    MIN-HEIGHT: 319PX;
+}
 
         /* Responsive Design */
         @media (max-width: 768px) {
+			.section-title {
+    font-size: 30px !important;
+    margin-bottom: 30px;
+}
+				.page-title-area {
+    margin-top: 1px !important;
+			}
             .hero-section h1 {
                 font-size: 36px;
             }
+			.container.text-center {
+     padding: 3px !important;
+}
+			    .top-header {
+        height: 70px;
+        background: aliceblue;
+    }
+	.breadcrumb .active {
+    color: #f4f5f7 !important;
+}
+.job-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    margin-bottom: 1px;
+    text-align: center;
+    line-height: 27px;
+}
+	
             .hero-section p {
                 font-size: 18px;
             }
@@ -5118,11 +5158,41 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 				height:70px;
 				
 			}
-			.default-btn, .top-header {
-    background-color: #000000;
+			    p {
+        font-size: 17px !important;
+    }
+}
+			.page-title-area {
+    margin-top: 139px;
+			}
+			.page-title-area .page-title-content ul li {
+    display: inline-block;
+    position: relative;
+    font-size: 12px;
+    padding-right: 15px;
+    margin-left: 15px;
+    font-weight: 500;
+}
+.service-header {
+    font-size: 22px !important;
+    font-weight: bold;
+    color: #1a1a1a;
+    animation: fadeInUp 1s ease-out;
+}
+.service-description {
+    font-size: 17px !important;
+    color: #555;
+    animation: fadeInUp 1.5s ease-out;
+}
+
+			.default-btn {
+    background-color: #012ea5;
 }
         }
-		
+		.top-header {
+    background-color: #fff;
+}
+        }
 		.single-feature.overly-one {
     min-height: 320px;
 }
@@ -5388,7 +5458,7 @@ p.lead.animated.fadeIn {
 }
 .page-title-area {
     color: #000000 !important;
-	background: url(../images/banner-bg-4-1.jpg) !important
+	background: url(../images/banner-bg-4.jpg) !important
 }
 
 /* Hamburger icon (3 bars) */
@@ -5553,8 +5623,7 @@ header.header-area.p-relative {
         animation-delay: 16s;
     }
 	img.img-fluid.rounded.shadow-lg.hover-zoom.animated.fadeInUp.delay-4s {
-    height: 418px;
-    width: 500px;
+    
 }
 .al-center{
 	    align-content: center;
@@ -5567,4 +5636,257 @@ header.header-area.p-relative {
 }
 img.card-img-top {
     max-height: 267px;
+}
+
+/* Base styles for dropdown */
+.navbar-nav-mob .nav-link {
+    position: relative;
+    padding: 10px 15px;
+    color: #333;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 500;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav-mob .nav-link:hover,
+.navbar-nav-mob .nav-link.active {
+    color: #007bff; /* Primary color for active or hovered links */
+}
+
+.navbar-nav-mob .nav-link i {
+    margin-left: 8px;
+    transition: transform 0.3s ease;
+}
+
+/* Dropdown menu styling */
+.navbar-nav-mob .dropdown-menu {
+    display: none;
+    padding: 10px 0;
+    background-color: #f9f9f9; /* Light background */
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    transform: translateY(-10px);
+    opacity: 0;
+}
+
+.navbar-nav-mob .dropdown-menu.show {
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Submenu link styling */
+.navbar-nav-mob .dropdown-menu .nav-link {
+    padding: 8px 15px;
+    color: #666;
+    font-size: 1em;
+    font-weight: 400;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav-mob .dropdown-menu .nav-link:hover {
+    color: #007bff; /* Primary color for hovered submenu links */
+}
+
+/* Smooth transition for dropdown arrow */
+.navbar-nav-mob .nav-link.active i {
+    transform: rotate(180deg);
+}
+
+/* Mobile menu container adjustments */
+#mobile-nav.navbar-nav-mob.container.active {
+    background-color: #ffffff;
+    padding: 15px 10px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.option-inner {
+    max-width: 300px; /* Adjust width for better appearance on mobile */
+    margin: 0 auto;
+}
+
+/* Optional: Add animations for a professional look */
+.navbar-nav-mob .dropdown-menu .nav-item {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.navbar-nav-mob .dropdown-menu.show .nav-item {
+    opacity: 1;
+    transform: translateY(0);
+}
+/* Process Step Container Styling */
+.process-step {
+    background: linear-gradient(135deg, #012ea5, #4e73df); /* Gradient using #012ea5 */
+    color: #ffffff; /* White text color */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Box shadow for 3D effect */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Light border for contrast */
+    text-align: center;
+}
+
+/* Hover Effect for 3D Look */
+.process-step:hover {
+    transform: translateY(-8px) scale(1.05); /* Slight lift and scaling */
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.5); /* Enhanced shadow on hover */
+}
+
+/* Heading and Paragraph Styles */
+.process-step h5 {
+    font-size: 1.4em; /* Increased font size for heading */
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.process-step p {
+    font-size: 1em;
+    line-height: 1.5;
+    color: #cce7ff; /* Lighter blue for paragraph text */
+}
+
+/* Fade-In Animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animated.fadeInUp {
+    animation: fadeInUp 1s ease forwards;
+}
+
+.delay-10s {
+    animation-delay: 0.3s;
+}
+
+/* Content Section Styling */
+#features {
+    background: linear-gradient(135deg, #012ea5, #4e73df); /* Gradient using #012ea5 */
+    color: #ffffff; /* White text color */
+    padding: 50px 0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Box shadow for 3D effect */
+    text-align: center;
+}
+
+/* Section Heading Styling */
+#features h2 {
+    font-size: 2em;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+/* Feature List Styling */
+#features .feature-list {
+    list-style: none;
+    padding: 0;
+}
+
+#features .feature-list li {
+    font-size: 1.2em;
+    color: #cce7ff; /* Lighter blue for list text */
+    margin-bottom: 10px;
+    transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+/* Hover Effect for List Items */
+#features .feature-list li:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+    color: #ffffff; /* White text on hover */
+}
+
+/* Fade-In Animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#features .animated.fadeInUp {
+    animation: fadeInUp 1s ease forwards;
+}
+
+#features .delay-10s {
+    animation-delay: 0.3s;
+}
+
+/* Content Section Styling */
+#services {
+    background: linear-gradient(135deg, #012ea5, #4e73df); /* Gradient using #012ea5 */
+    color: #ffffff; /* White text color */
+    padding: 50px 0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Box shadow for 3D effect */
+    text-align: center;
+}
+
+/* Section Heading Styling */
+#services h2 {
+    font-size: 2em;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+/* Section Paragraph Styling */
+#services p {
+    font-size: 1.2em;
+    color: #cce7ff; /* Light blue color for paragraph text */
+    margin-bottom: 20px;
+}
+
+/* Service List Styling */
+#services .service-list {
+    list-style: none;
+    padding: 0;
+}
+
+#services .service-list li {
+    font-size: 1.2em;
+    color: #cce7ff; /* Lighter blue for list text */
+    margin-bottom: 10px;
+    transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+/* Hover Effect for List Items */
+#services .service-list li:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+    color: #ffffff; /* White text on hover */
+}
+
+/* Fade-In Animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#services .animated.fadeInUp {
+    animation: fadeInUp 1s ease forwards;
+}
+
+#services .delay-10s {
+    animation-delay: 0.3s;
 }
