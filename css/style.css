@@ -6855,6 +6855,10 @@ section.our-approach-area.our-approach-area-four.pb-70 {
 
         /* Responsive Design */
 @media (max-width: 768px) {
+	
+	section {
+    padding: 28px 10px 15px 10px;
+}
 	    .page-title-area.page-title-style-two {
         padding-top: 150px !important;
         padding-bottom: 70px;
